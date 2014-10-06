@@ -1,5 +1,6 @@
 kraken-devtools-browserify
 ==========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/eBay-European-Product-Development/kraken-devtools-browserify?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Browserify plugin for kraken-devtools
 
